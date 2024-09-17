@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_app/static/css/main.eca2dfa2.css",
-    "main.js": "/react_app/static/js/main.f00816a5.js",
-    "static/js/453.e5b00392.chunk.js": "/react_app/static/js/453.e5b00392.chunk.js",
-    "static/media/Astro.svg": "/react_app/static/media/Astro.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/Sec3b2img.jpeg": "/react_app/static/media/Sec3b2img.c1a0d79c18238de14401.jpeg",
-    "index.html": "/react_app/index.html",
-    "main.eca2dfa2.css.map": "/react_app/static/css/main.eca2dfa2.css.map",
-    "main.f00816a5.js.map": "/react_app/static/js/main.f00816a5.js.map",
-    "453.e5b00392.chunk.js.map": "/react_app/static/js/453.e5b00392.chunk.js.map"
+    "main.css": "/react-project/static/css/main.eca2dfa2.css",
+    "main.js": "/react-project/static/js/main.bdf6eede.js",
+    "static/js/453.e5b00392.chunk.js": "/react-project/static/js/453.e5b00392.chunk.js",
+    "static/media/Astro.svg": "/react-project/static/media/Astro.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/Sec3b2img.jpeg": "/react-project/static/media/Sec3b2img.c1a0d79c18238de14401.jpeg",
+    "index.html": "/react-project/index.html",
+    "main.eca2dfa2.css.map": "/react-project/static/css/main.eca2dfa2.css.map",
+    "main.bdf6eede.js.map": "/react-project/static/js/main.bdf6eede.js.map",
+    "453.e5b00392.chunk.js.map": "/react-project/static/js/453.e5b00392.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eca2dfa2.css",
-    "static/js/main.f00816a5.js"
+    "static/js/main.bdf6eede.js"
   ]
 }
