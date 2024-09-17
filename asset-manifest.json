@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eca2dfa2.css",
+    "main.js": "/static/js/main.c54f09b0.js",
+    "static/js/453.e5b00392.chunk.js": "/static/js/453.e5b00392.chunk.js",
+    "static/media/Astro.svg": "/static/media/Astro.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/Sec3b2img.jpeg": "/static/media/Sec3b2img.c1a0d79c18238de14401.jpeg",
+    "index.html": "/index.html",
+    "main.eca2dfa2.css.map": "/static/css/main.eca2dfa2.css.map",
+    "main.c54f09b0.js.map": "/static/js/main.c54f09b0.js.map",
+    "453.e5b00392.chunk.js.map": "/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca2dfa2.css",
+    "static/js/main.c54f09b0.js"
+  ]
+}
